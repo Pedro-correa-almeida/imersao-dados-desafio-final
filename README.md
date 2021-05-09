@@ -14,7 +14,7 @@ O projeto começa com um resumo sobre a área de 'Drug Discovery' e após isso �
 
 ## 1-Importações
 
-Na primeira etapa do projeto estão realizadas as importações dos pacotes utilizados em todo o projeto e dos arquivos onde se encontram os dados 
+Na primeira etapa do projeto estão realizadas as importações dos pacotes utilizados em todo o projeto e dos arquivos onde se encontram os dados.
 
 ## 2-Análise Exploratória e Limpeza Dos Dados
 
@@ -26,7 +26,7 @@ Na terceira etapa foi onde os dados foram concatenados e foi possível comparar 
 
 ## 4-Modelo de Machine Learning
 
-Na última etapa foi realizado a criação de dois modelos de machine learning, o primeiro com o objetivo para prever se certo experimento ativou algum mecanismo de ação ou não, e no outro o objetivo foi prever o tipo do experimento(com controle ou com composto)
+Na última etapa foi realizado a criação de dois modelos de machine learning, o primeiro com o objetivo para prever se certo experimento ativou algum mecanismo de ação ou não, e no outro o objetivo foi prever o tipo do experimento(com controle ou com composto).
 
 # Considerações
 

@@ -18,11 +18,11 @@ Na primeira etapa do projeto estão realizadas as importações dos pacotes util
 
 ## 2-Análise Exploratória e Limpeza Dos Dados
 
-Nessa etapa o objetivo foi analisar como os dados estão distribuídos, analisando as variáveis dentro de dois grupos(categóricas e numéricas), foram utilizados diversos gráficos para melhorar o entendimento dessas variáveis.Além disso, nesta etapa foram realizados os devidos tratamentos dos dados. 
+Nessa etapa o objetivo foi analisar como os dados estão distribuídos, analisando as variáveis dentro de dois grupos(categóricas e numéricas), foram utilizados diversos gráficos para melhorar o entendimento dessas variáveis.Além disso, nesta etapa foram realizados os devidos tratamentos dos dados.Foi análisado as proporcão dos dados em relação aos seus diversos atributos e sobre a distribuição das variáveis numéricas.
 
 ## 3-Juntar os dados do experimento e resultado
 
-Na terceira etapa foi onde os dados foram concatenados e foi possível comparar os dados da base de dados dos experimentos e do resultado.
+Na terceira etapa foi onde os dados foram concatenados e foi possível comparar os dados da base de dados dos experimentos e do resultado.Podendo confirmar hipóteses criadas na fase de análise.
 
 ## 4-Modelo de Machine Learning
 

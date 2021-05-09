@@ -30,7 +30,7 @@ Nesta etapa foi realizado a criação de dois modelos de machine learning, o pri
 
 ## 5-Conclusões
 
-Na última parte do projeto dei minhas conclusões sobre o projeto os aprendizados dessa jornada.
+Na última parte do projeto dei minhas conclusões sobre o projeto e os aprendizados dessa jornada.
 
 # Considerações
 

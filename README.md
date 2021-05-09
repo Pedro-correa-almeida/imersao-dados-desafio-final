@@ -10,19 +10,19 @@ Os dados utilizados no projeto estão divididos em dois arquivos, um deles com i
 
 O projeto começa com um resumo sobre a área de 'Drug Discovery' e após isso é dividido em diversos tópicos onde foram feitas as análises, são eles:
 
-##1-Importações
+## 1-Importações
 
 Na primeira etapa do projeto estão realizadas as importações dos pacotes utilizados em todo o projeto e dos arquivos onde se encontram os dados 
 
-##2-Análise Exploratória e Limpeza Dos Dados
+## 2-Análise Exploratória e Limpeza Dos Dados
 
 Nessa etapa o objetivo foi analisar como os dados estão distribuídos, analisando as variáveis dentro de dois grupos(categóricas e numéricas), foram utilizados diversos gráficos para melhorar o entendimento dessas variáveis.Além disso, nesta etapa foram realizados os devidos tratamentos dos dados. 
 
-##3-Juntar os dados do experimento e resultado
+## 3-Juntar os dados do experimento e resultado
 
 Na terceira etapa foi onde os dados foram concatenados e foi possível comparar os dados da base de dados dos experimentos e do resultado.
 
-##4-Modelo de Machine Learning
+## 4-Modelo de Machine Learning
 
 Na última etapa foi realizado a criação de dois modelos de machine learning, o primeiro com o objetivo para prever se certo experimento ativou algum mecanismo de ação ou não, e no outro o objetivo foi prever o tipo do experimento(com controle ou com composto)
 

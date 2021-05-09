@@ -26,7 +26,11 @@ Na terceira etapa foi onde os dados foram concatenados e foi possível comparar 
 
 ## 4-Modelo de Machine Learning
 
-Na última etapa foi realizado a criação de dois modelos de machine learning, o primeiro com o objetivo para prever se certo experimento ativou algum mecanismo de ação ou não, e no outro o objetivo foi prever o tipo do experimento(com controle ou com composto).
+Nesta etapa foi realizado a criação de dois modelos de machine learning, o primeiro com o objetivo para prever se certo experimento ativou algum mecanismo de ação ou não, e no outro o objetivo foi prever o tipo do experimento(com controle ou com composto).
+
+## 5-Conclusões
+
+Na última parte do projeto dei minhas conclusões sobre o projeto os aprendizados dessa jornada.
 
 # Considerações
 

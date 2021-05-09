@@ -1,5 +1,7 @@
 # Projeto De Ciência De Dados Aplicada Na Área De 'Drug Discovery' 
 
+![alt text](https://www.future-science.com/pb-assets/Campaign/FDD%20cover_cropped2-1538399534083.jpg)
+
 Neste repositório se encontra o projeto final da terceira edição da imersão dados, uma semana com aulas todos dias desenvolvidas pela Alura, a maior plataforma brasileira de cursos de tecnologia. Esse projeto foi desenvolvido em python e teve como objetivo aplicar todos os conhecimentos adquiridos com as aulas na área de 'Drug Discovery', esse tema foi escolhido pelo time da Alura esse ano e realmente foi um tema muito interessante pois a farmacologia é uma área de estudo que já existe há séculos e essa parte de descobrir novos compostos para fabricação de medicamentos demanda muito tempo e trabalho que podem ser otimizados através da tecnologia e da Ciência de Dados.
 
 # Dados
